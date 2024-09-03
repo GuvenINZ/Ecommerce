@@ -1,0 +1,19 @@
+body {  
+    font-family: Arial, sans-serif;  
+  }  
+  .container {  
+    max-width: 800px;  
+    margin: 40px auto;  
+  }  
+  .product-list {  
+    list-style: none;  
+    padding: 0;  
+    margin: 0;  
+  }  
+  .product-list li {  
+    padding: 10px;  
+    border-bottom: 1px solid #ccc;  
+  }  
+  .product-list li:last-child {  
+    border-bottom: none;  
+  }  
